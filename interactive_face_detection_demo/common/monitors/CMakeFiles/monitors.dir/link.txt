@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../intel64/Release/lib/libmonitors.a  CMakeFiles/monitors.dir/presenter.cpp.o CMakeFiles/monitors.dir/cpu_monitor.cpp.o CMakeFiles/monitors.dir/memory_monitor.cpp.o
+/usr/bin/ranlib ../../intel64/Release/lib/libmonitors.a
